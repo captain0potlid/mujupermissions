@@ -1,0 +1,9 @@
+name : mujuperm
+main : com.captain0potlid.captain0potlid.main
+version : 1.0
+api-version: 1.15
+author : captain0potlid
+commands :
+  perminfo:
+  ahead:
+  masterwarn:
